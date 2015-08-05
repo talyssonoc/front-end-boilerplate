@@ -1,3 +1,3 @@
 var gulp = require('gulp');
 
-gulp.task('watch', ['build', 'watch:html', 'watch:js', 'watch:css']);
+gulp.task('watch', ['build', 'watch:html', 'watch:js', 'watch:css', 'watch:img']);

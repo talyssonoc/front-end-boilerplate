@@ -15,6 +15,7 @@
     "chai": "^3.2.0",
     "gulp": "^3.9.0",
     "gulp-eslint": "^0.15.0",
+    "gulp-imagemin": "^2.3.0",
     "gulp-karma": "0.0.4",
     "gulp-menu": "^0.2.2",
     "gulp-nunjucks-html": "^1.2.2",
